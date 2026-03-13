@@ -247,7 +247,7 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by **Sangeetham Padma Teja**
 
 GitHub:  
-https://github.com/yourusername
+https://github.com/Padmateja-000
